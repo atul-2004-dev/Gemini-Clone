@@ -11,7 +11,7 @@ This project is a **Gemini Clone** built using **React.js** and **Gemini API**. 
 
   ## Demo
 
-Check out the live demo of the project deployed on Vercel:
+Check out the live demo of  project deployed on Vercel:
 
 [Live Demo](https://gemini-clone-atul.vercel.app/)
 
